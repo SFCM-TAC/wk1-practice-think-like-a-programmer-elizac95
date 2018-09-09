@@ -1,1 +1,18 @@
 /* TODO: Add your styles here */
+body {
+font-size: 50px;
+font-family: times;
+background-color: black;
+}
+
+.answer {
+  color: pink;
+}
+
+.question {
+  color: white
+}
+
+h1 {
+  color: blue;
+}
